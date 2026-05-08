@@ -15,4 +15,4 @@ You play as a **trash-boat** on a noble mission to turn this aquatic dump into a
 When you reach the lighthouse, congratulations! The beach is officially cleaner now!
 
 
-**Granted, the water is realistically still a complete biohazard and definitely unsafe for human recreation (seriously, why do people insist on swimming here???) but hey, at least you did your part...!**
+*Granted, the water is realistically still a complete biohazard and definitely unsafe for human recreation (seriously, why do people insist on swimming here???) but hey, at least you did your part...!*
