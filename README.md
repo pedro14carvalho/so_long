@@ -1,6 +1,6 @@
 # so_long
 
-![custom so_long title screen](title.png)
+![custom so_long title screen](images/title.png)
 
 ### Pig's Bay 🌊
 
